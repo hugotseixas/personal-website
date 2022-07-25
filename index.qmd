@@ -12,7 +12,8 @@ about:
       href: https://github.com/hugotseixas
 ---
 
-
 Hi, my name is Hugo. I'm a PhD candidate at the State University of Campinas, in Environment and Society.
 
 Working on the estimation of carbon sequestration by low carbon agriculture in Brazil.
+
+Interested in using data to make inferences about ecological processes. Enthusiast of data analysis and visualization, open science, reproducibility and accessibility.
