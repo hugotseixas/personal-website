@@ -2,7 +2,7 @@
 title: "Hugo Tameirão Seixas"
 about:
   template: trestles
-  image: hugo.jpeg
+  image: hugo.jpg
   links:
     - icon: envelope
       text: Email
