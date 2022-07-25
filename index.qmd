@@ -7,15 +7,11 @@ about:
     - icon: envelope
       text: Email
       href: mailto:seixas.hugo@protonmail.com
-    - icon: file-pdf
-      text: Resume
     - icon: github
       text: GitHub
       href: https://github.com/hugotseixas
 ---
 
 ::: {#hero-heading}
-
-Hi, My name is Hugo.
-
+Hi, My name is Hugo. I'm a PhD candidate at the State University of Campinas, in Environment and Society.
 :::
