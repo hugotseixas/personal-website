@@ -1,3 +1,7 @@
 ---
 title: "Publications"
 ---
+
+# 2022
+
+Exploring the ecosystem resilience concept with land surface model scenarios. Ecological Modelling. [https://doi.org/10.1016/j.ecolmodel.2021.109817](https://doi.org/10.1016/j.ecolmodel.2021.109817)

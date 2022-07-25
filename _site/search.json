@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Hugo Tameirão Seixas",
     "section": "",
-    "text": "Hi, My name is Hugo. I’m a PhD candidate at the State University of Campinas, in Environment and Society."
+    "text": "Working on the estimation of carbon sequestration by low carbon agriculture in Brazil."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Exploring the ecosystem resilience concept with land surface model scenarios. Ecological Modelling. https://doi.org/10.1016/j.ecolmodel.2021.109817"
   }
 ]
