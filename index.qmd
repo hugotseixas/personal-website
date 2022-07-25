@@ -1,0 +1,21 @@
+---
+title: "Hugo Tameirão Seixas"
+about:
+  template: trestles
+  image: hugo.jpeg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:seixas.hugo@protonmail.com
+    - icon: file-pdf
+      text: Resume
+    - icon: github
+      text: GitHub
+      href: https://github.com/hugotseixas
+---
+
+::: {#hero-heading}
+
+Hi, My name is Hugo.
+
+:::
