@@ -5,11 +5,13 @@ title: "Projects"
 > ### [Estimating the potential carbon sequestration of integrated crop-livestock-forestry systems in brazil](https://github.com/hugotseixas/iclfs-brazil)
 >
 > This research focuses on estimating the carbon sequestration caused by the expansion of integrated crop-livestock-forestry farming systems in Brazil. Future projections will be performed based on data retrieved from the literature to predict the amount of above and below ground carbon accumulated in these systems along the years.
+>
+> ![](/images/ilpf.jpg)
 
-![](/images/ilpf.jpg)
+<br>
 
 > ### [Estimating the effect of forest fires over forest carbon estimates in the Brazillian Amazon](https://github.com/hugotseixas/effbe_gedi)
 >
 > In this experiment I'm trying to set up a research design to estimate the effect of forest fires over aboveground biomass in the amazon. The biomass estimates are derived from [GEDI L4A](https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=2056) product. The research design is built upon [Mapbiomas](https://mapbiomas.org/en?cama_set_language=en) land cover and fire data.
-
-![](/images/amazon_fire.jpg)
+>
+> ![](/images/amazon_fire.jpg)
