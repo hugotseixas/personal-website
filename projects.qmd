@@ -30,4 +30,6 @@ title: "Projects"
 >
 > This project consists in calculating the time to the transition from native forests to annual agriculture for the [Mapbiomas](https://mapbiomas.org/en?cama_set_language=en) land cover classification.
 >
-> ![](/images/trans_length_map.svg)
+> ![](/images/forest_agri.jpg)
+
+<br>
