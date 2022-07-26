@@ -12,7 +12,7 @@ about:
       href: https://github.com/hugotseixas
 ---
 
-Hi, my name is Hugo. I'm a PhD candidate at the State University of Campinas, in Environment and Society.
+Hi, my name is Hugo. I'm a PhD candidate at the State University of Campinas, in Environment and Society. Member of the [LabTerra](https://labterra.cpa.unicamp.br/en/) research group.
 
 Working on the estimation of carbon sequestration by low carbon agriculture in Brazil.
 
