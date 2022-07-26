@@ -23,3 +23,11 @@ title: "Projects"
 > This project consists in creating accessible vizualisations of emission data from the [Climate Observatory](https://www.oc.eco.br/en/). This is an exercise to improve the accessibility of academic documents in general, following guidelines and tools to facilitate information availability for all.
 >
 > ![](/images/ghg.jpg)
+
+<br>
+
+### [Calculation transition time from native forests to annual agricultura in the Brazzilian Amazon](https://github.com/hugotseixas/forest-agri-transition)
+>
+> This project consists in calculating the time to the transition from native forests to annual agriculture for the [Mapbiomas](https://mapbiomas.org/en?cama_set_language=en) land cover classification.
+>
+> ![](/images/trans_length_map.svg)
