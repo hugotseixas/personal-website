@@ -18,7 +18,7 @@ title: "Projects"
 
 <br>
 
-### [Creating accessible vizualisations of greenhouse gases in Brazil](https://github.com/hugotseixas/seeg_dataviz)
+### [Creating accessible vizualisations of greenhouse gases in Brazil](/documents/seeg_dataviz.html)
 >
 > This project consists in creating accessible vizualisations of emission data from the [Climate Observatory](https://www.oc.eco.br/en/). This is an exercise to improve the accessibility of academic documents in general, following guidelines and tools to facilitate information availability for all.
 >
