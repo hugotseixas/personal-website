@@ -2,7 +2,7 @@
 title: "Projects"
 ---
 
-### [Estimating the potential carbon sequestration of integrated crop-livestock-forestry systems in brazil](https://github.com/hugotseixas/iclfs-brazil)
+### [Estimating the potential carbon sequestration of integrated crop-livestock-forestry systems in brazil](/documents/iclf_brazil.html)
 >
 > This research focuses on estimating the carbon sequestration caused by the expansion of integrated crop-livestock-forestry farming systems in Brazil. Future projections will be performed based on data retrieved from the literature to predict the amount of above and below ground carbon accumulated in these systems along the years.
 >
