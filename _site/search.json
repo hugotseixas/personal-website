@@ -40,5 +40,33 @@
     "title": "Projects",
     "section": "—————————————",
     "text": "—————————————"
+  },
+  {
+    "objectID": "hugo-cv/hugo-cv.html",
+    "href": "hugo-cv/hugo-cv.html",
+    "title": "Hugo Tameirão Seixas",
+    "section": "",
+    "text": "I poisoned myself doing research.\nI was the first woman to win a Nobel prize\nI was the first person and only woman to win a Nobel prize in two different sciences."
+  },
+  {
+    "objectID": "hugo-cv/hugo-cv.html#education",
+    "href": "hugo-cv/hugo-cv.html#education",
+    "title": "Hugo Tameirão Seixas",
+    "section": "Education",
+    "text": "Education\n\n\n# A tibble: 3 × 5\n  what                  when    with                where          why      \n  <chr>                 <chr>   <chr>               <chr>          <list>   \n1 Informal studies      1889-91 Flying University   Warsaw, Poland <chr [0]>\n2 Master of Physics     1893    Sorbonne Université Paris, France  <chr [0]>\n3 Master of Mathematics 1894    Sorbonne Université Paris, France  <chr [0]>"
+  },
+  {
+    "objectID": "hugo-cv/hugo-cv.html#nobel-prizes",
+    "href": "hugo-cv/hugo-cv.html#nobel-prizes",
+    "title": "Hugo Tameirão Seixas",
+    "section": "Nobel Prizes",
+    "text": "Nobel Prizes\n\n\n# A tibble: 2 × 3\n  what                      when with                                           \n  <glue>                   <dbl> <chr>                                          \n1 Nobel Prize in Physics    1903 Awarded for her work on radioactivity with Pie…\n2 Nobel Prize in Chemistry  1911 Awarded for the discovery of radium and poloni…"
+  },
+  {
+    "objectID": "hugo-cv/hugo-cv.html#publications",
+    "href": "hugo-cv/hugo-cv.html#publications",
+    "title": "Hugo Tameirão Seixas",
+    "section": "Publications",
+    "text": "Publications\n\n\n\n/tmp/RtmpQu3VPe/file1bd9e11cbc478.yaml"
   }
 ]
