@@ -26,9 +26,9 @@ title: "Projects"
 
 <br>
 
-### [Calculation transition time from native forests to annual agricultura in the Brazzilian Amazon](https://github.com/hugotseixas/forest-agri-transition)
+### [Calculation transition time from native forests to annual agricultura in the Brazzilian Amazon](https://github.com/hugotseixas/forest-agri-conversion)
 >
-> This project consists in calculating the time to the transition from native forests to annual agriculture for the [Mapbiomas](https://mapbiomas.org/en?cama_set_language=en) land cover classification.
+> This project consists in calculating the time to the conversion from native forests to annual agriculture for the [Mapbiomas](https://mapbiomas.org/en?cama_set_language=en) land cover classification.
 >
 > ![](/images/forest_agri.jpg)
 
