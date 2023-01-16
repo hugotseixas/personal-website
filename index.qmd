@@ -1,8 +1,10 @@
 ---
 title: "Hugo Tameirão Seixas"
 about:
+  id: hero-heading
   template: trestles
   image: hugo.jpg
+  image-width: 19em
   links:
     - icon: envelope
       text: Email
@@ -12,8 +14,86 @@ about:
       href: https://github.com/hugotseixas
 ---
 
-Hi, my name is Hugo. I'm a PhD candidate at the State University of Campinas, in Environment and Society.
+::: {when-profile="english"}
 
-Working on the estimation of carbon sequestration by low carbon agriculture in Brazil.
+::: {#hero-heading}
+I am a PhD student in Environment and Society by the State University of Campinas (UNICAMP).
+I have a great passion on research, data analysis and visualization, which allows me to explore a vast ocean of knowledge.
+I also love my cats!
 
-Interested in using data to make inferences about ecological processes. Enthusiast of data analysis and visualization, open science, reproducibility and accessibility.
+### Education
+
+| **PhD in Environment and Society**
+| *Mar 2021 - present*
+| *State University of Campinas (UNICAMP)*
+
+| **MSc in Remote Sensing**
+| *Mar 2018 - Mar 2020*
+| *National Institute for Space Research (INPE)*
+
+| **BSc in Agronomic Engineering**
+| *Mar 2011 - June 2017*
+| *University of São Paulo (ESALQ)*
+
+### Experience
+
+| **Embrapa Territorial** \| *Research Technician*
+| *Mar 2020 - Mar 2021*
+:::
+
+------------------------------------------------------------------------
+
+Since graduation, I have accumulated experience in research, starting with scientific initiation to doctorate, covering a wide range of topics.
+Over the years, I acquired a special interest in the area of data analysis, statistics and the development of regression and classification models, trying to create interdisciplinary approaches in my projects.
+
+I believe that my greatest quality as a researcher is that I am a very versatile professional, where I continuously seek to learn a wide variety of techniques, tools and theories to develop research.
+As an example, I have experience with programming languages such as R, Python, JavaScript, Julia and SQL, which I use especially (but not exclusively) for model development, data analysis and visualization, and dashboard creation.
+I consider these tools fundamental in scientific projects, but they must be founded on a strong theoretical basis, so I also accumulate studies in the area of statistics and causal inference, which allow me to develop good quality projects.
+Moreover, I also consider it of great importance to work with organization, and for this I use control tools such as git and github, using fundamentals of project management to be able to produce efficiently.
+
+My core values as a researcher are reproducibility, transparency, and accessibility, which are fundamental principles for developing research in an open and inclusive manner.
+In addition, I also highly value building a safe and healthy research environment, free of harassment and discrimination, where problem-solving takes place through dialogue in a respectful way.
+
+:::
+
+::: {when-profile="portuguese"}
+
+::: {#hero-heading}
+I am a PhD student in Environment and Society by the State University of Campinas (UNICAMP).
+I have a great passion on research, data analysis and visualization, which allows me to explore a vast ocean of knowledge.
+I also love my cats!
+
+### Education
+
+| **Doutorando em Ambiente e Sociedade**
+| *Mar 2021 - present*
+| *State University of Campinas (UNICAMP)*
+
+| **MSc in Remote Sensing**
+| *Mar 2018 - Mar 2020*
+| *National Institute for Space Research (INPE)*
+
+| **BSc in Agronomic Engineering**
+| *Mar 2011 - June 2017*
+| *University of São Paulo (ESALQ)*
+
+### Experience
+
+| **Embrapa Territorial** \| *Research Technician*
+| *Mar 2020 - Mar 2021*
+:::
+
+------------------------------------------------------------------------
+
+Since graduation, I have accumulated experience in research, starting with scientific initiation to doctorate, covering a wide range of topics.
+Over the years, I acquired a special interest in the area of data analysis, statistics and the development of regression and classification models, trying to create interdisciplinary approaches in my projects.
+
+I believe that my greatest quality as a researcher is that I am a very versatile professional, where I continuously seek to learn a wide variety of techniques, tools and theories to develop research.
+As an example, I have experience with programming languages such as R, Python, JavaScript, Julia and SQL, which I use especially (but not exclusively) for model development, data analysis and visualization, and dashboard creation.
+I consider these tools fundamental in scientific projects, but they must be founded on a strong theoretical basis, so I also accumulate studies in the area of statistics and causal inference, which allow me to develop good quality projects.
+Moreover, I also consider it of great importance to work with organization, and for this I use control tools such as git and github, using fundamentals of project management to be able to produce efficiently.
+
+My core values as a researcher are reproducibility, transparency, and accessibility, which are fundamental principles for developing research in an open and inclusive manner.
+In addition, I also highly value building a safe and healthy research environment, free of harassment and discrimination, where problem-solving takes place through dialogue in a respectful way.
+
+:::
