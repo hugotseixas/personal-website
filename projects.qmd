@@ -1,5 +1,6 @@
 ---
 title: "Projects"
+filters: [remove_title.lua]
 ---
 
 ### [Estimating the potential carbon sequestration of integrated crop-livestock-forestry systems in brazil](/documents/iclf_brazil.html)
