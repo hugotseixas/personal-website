@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+filters: [remove_title.lua]
 ---
 
 # 2022
