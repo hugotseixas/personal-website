@@ -1,0 +1,91 @@
+---
+title: "CV"
+toc: false
+filters: [remove_title.lua]
+---
+
+
+### Education
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+| **PhD in Environment and Society**
+| *State University of Campinas (UNICAMP)*
+
+| **MSc in Remote Sensing**
+| *National Institute for Space Research (INPE)*
+
+| **BSc in Agronomic Engineering**
+| *University of São Paulo (ESALQ)*
+
+:::
+
+::: {.column width="30%"}
+
+| *Mar 2021 - present*
+| <br>
+
+| *Mar 2018 - Mar 2020*
+| <br>
+
+| *Mar 2011 - June 2017*
+| <br>
+
+:::
+
+::::
+
+---
+
+### Experience
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+| **Embrapa Territorial** | *Research Technician *
+
+:::
+
+::: {.column width="30%"}
+
+| *Mar 2020 - Mar 2021*
+
+:::
+
+::::
+
+---
+
+### Skills
+
+:::: {.columns}
+
+::: {.column width="30%"}
+
+<div style="text-align: right"> Advanced </div>
+
+<div style="text-align: right"> Intermediate  </div>
+
+<div style="text-align: right"> Basic  </div>
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="65%"}
+
+<div style="text-align: left"> R </div>
+
+<div style="text-align: left"> SQL, Earth Engine  </div>
+
+<div style="text-align: left"> Python, Julia  </div>
+
+:::
+
+::::
+
