@@ -1,21 +1,6 @@
 project:
   type: website
 
-website:
-  title: "Hugo Tameirão Seixas"
-  navbar:
-    background: dark
-    left:
-      - href: index.qmd
-        text: Home
-      - file: projects.qmd
-      - file: publications.qmd
-
-format:
-  html:
-    theme: lux
-    css: styles.css
-    toc: true
-
-editor: visual
-
+profile:
+  default: english
+  group: [english, portuguese]
