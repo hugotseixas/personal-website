@@ -55,7 +55,7 @@ In addition, I also highly value building a safe and healthy research environmen
 ::: {.content-visible when-profile="portuguese"}
 
 ::: {#hero-heading}
-Sou estudante de doutoramento em Ambiente e Sociedade pela Universidade Estadual de Campinas (UNICAMP). Tenho uma grande paixão pela investigação, análise e visualização de dados, o que me permite explorar um vasto oceano de conhecimento. Também adoro os meus gatos!
+Sou estudante de doutorado em Ambiente e Sociedade pela Universidade Estadual de Campinas (UNICAMP). Tenho uma grande paixão por pesquisa, análise e visualização de dados, o que me permite explorar um vasto oceano de conhecimento. Também amo os meus gatos!
 
 ### Education
 
@@ -65,15 +65,15 @@ Sou estudante de doutoramento em Ambiente e Sociedade pela Universidade Estadual
 
 | **Mestre em Sensoriamento Remoto**
 | *Mar 2018 - Mar 2020*
-| *National Institute for Space Research (INPE)*
+| *Instituto Nacional de Pesquisas Espaciais (INPE)*
 
-| **BSc in Agronomic Engineering**
+| **Engenheiro Agrônomo**
 | *Mar 2011 - June 2017*
-| *University of São Paulo (ESALQ)*
+| *Universidade de São Paulo (USP-ESALQ)*
 
 ### Experience
 
-| **Embrapa Territorial** \| *Research Technician*
+| **Embrapa Territorial** \| *Técnico de Pesquisa*
 | *Mar 2020 - Mar 2021*
 :::
 

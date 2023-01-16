@@ -16,9 +16,9 @@ website:
       - file: cv.qmd
     right:
       - href: ../en
-        text: English
+        text: EN
       - href: ../pt
-        text: Portuguese
+        text: PT
 
 lang: en
 
