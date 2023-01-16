@@ -10,6 +10,7 @@ website:
       - href: index.qmd
         text: Home
       - file: projects.qmd
+        text: Projetos
       - file: publications.qmd
       - file: resources.qmd
       - file: services.qmd
