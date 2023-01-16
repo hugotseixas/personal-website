@@ -12,9 +12,13 @@ website:
       - file: projects.qmd
         text: Projetos
       - file: publications.qmd
+        text: Publicações
       - file: resources.qmd
+        text: Referências
       - file: services.qmd
+        text: Serviços
       - file: cv.qmd
+        text: CV
     right:
       - href: ../en
         text: EN

@@ -10,10 +10,15 @@ website:
       - href: index.qmd
         text: Home
       - file: projects.qmd
+        text: Projects
       - file: publications.qmd
+        text: Publications
       - file: resources.qmd
+        text: Resources
       - file: services.qmd
+        text: Hire me
       - file: cv.qmd
+        text: CV
     right:
       - href: ../en
         text: EN
