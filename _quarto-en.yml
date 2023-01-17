@@ -1,0 +1,36 @@
+project:
+  title: "Hugo Tameirão Seixas"
+  output-dir: ./_site/en
+
+website:
+  search: false
+  navbar:
+    background: dark
+    left:
+      - href: index.qmd
+        text: Home
+      - file: projects.qmd
+        text: Projects
+      - file: publications.qmd
+        text: Publications
+      - file: resources.qmd
+        text: Resources
+      - file: services.qmd
+        text: Hire me
+      - file: cv.qmd
+        text: CV
+    right:
+      - href: ../en
+        text: EN
+      - href: ../pt
+        text: PT
+
+lang: en
+
+format:
+  html:
+    theme: 
+      - lux
+      - styles.scss
+    toc: true
+    mainfont: Maven Pro
