@@ -7,7 +7,7 @@ filters: [remove_title.lua]
 >
 > This is a modelling exercise, in which I used data from the scientific paper: [Linking land-use and land-cover transitions to their ecological impact in the Amazon](https://www.pnas.org/doi/full/10.1073/pnas.2202310119). With this data, I developed prediction models to predict a biodiversity variable, and classification models to classify Land Use and Land Cover (LULC) classes.
 >
-> ![](/images/bird.jpg)
+> ![](/images/birds.jpg)
 
 ### [Estimating the potential carbon sequestration of integrated crop-livestock-forestry systems in brazil](/documents/iclf_brazil.html)
 >
