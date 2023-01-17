@@ -1,92 +1,36 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hugo Tameirão Seixas",
-    "section": "",
-    "text": "Email\n  \n  \n    \n     GitHub\n  \n\n  \n  \nI am a PhD student in Environment and Society by the State University of Campinas (UNICAMP). I have a great passion on research, data analysis and visualization, which allows me to explore a vast ocean of knowledge. I also love my cats!\n\nEducation\nPhD in Environment and Society\nMar 2021 - present\nState University of Campinas (UNICAMP)\nMSc in Remote Sensing\nMar 2018 - Mar 2020\nNational Institute for Space Research (INPE)\nBSc in Agronomic Engineering\nMar 2011 - June 2017\nUniversity of São Paulo (ESALQ)\n\n\nExperience\nEmbrapa Territorial | Research Technician\nMar 2020 - Mar 2021\n\n\n\n\n\nSince graduation, I have accumulated experience in research, starting with scientific initiation to doctorate, covering a wide range of topics. Over the years, I acquired a special interest in the area of data analysis, statistics and the development of regression and classification models, trying to create interdisciplinary approaches in my projects.\nI believe that my greatest quality as a researcher is that I am a very versatile professional, where I continuously seek to learn a wide variety of techniques, tools and theories to develop research. As an example, I have experience with programming languages such as R, Python, JavaScript, Julia and SQL, which I use especially (but not exclusively) for model development, data analysis and visualization, and dashboard creation. I consider these tools fundamental in scientific projects, but they must be founded on a strong theoretical basis, so I also accumulate studies in the area of statistics and causal inference, which allow me to develop good quality projects. Moreover, I also consider it of great importance to work with organization, and for this I use control tools such as git and github, using fundamentals of project management to be able to produce efficiently.\nMy core values as a researcher are reproducibility, transparency, and accessibility, which are fundamental principles for developing research in an open and inclusive manner. In addition, I also highly value building a safe and healthy research environment, free of harassment and discrimination, where problem-solving takes place through dialogue in a respectful way.\n\n\n\nI am a PhD student in Environment and Society by the State University of Campinas (UNICAMP). I have a great passion on research, data analysis and visualization, which allows me to explore a vast ocean of knowledge. I also love my cats!\n\nEducation\nDoutorando em Ambiente e Sociedade\nMar 2021 - present\nState University of Campinas (UNICAMP)\nMSc in Remote Sensing\nMar 2018 - Mar 2020\nNational Institute for Space Research (INPE)\nBSc in Agronomic Engineering\nMar 2011 - June 2017\nUniversity of São Paulo (ESALQ)\n\n\nExperience\nEmbrapa Territorial | Research Technician\nMar 2020 - Mar 2021\n\n\n\nSince graduation, I have accumulated experience in research, starting with scientific initiation to doctorate, covering a wide range of topics. Over the years, I acquired a special interest in the area of data analysis, statistics and the development of regression and classification models, trying to create interdisciplinary approaches in my projects.\nI believe that my greatest quality as a researcher is that I am a very versatile professional, where I continuously seek to learn a wide variety of techniques, tools and theories to develop research. As an example, I have experience with programming languages such as R, Python, JavaScript, Julia and SQL, which I use especially (but not exclusively) for model development, data analysis and visualization, and dashboard creation. I consider these tools fundamental in scientific projects, but they must be founded on a strong theoretical basis, so I also accumulate studies in the area of statistics and causal inference, which allow me to develop good quality projects. Moreover, I also consider it of great importance to work with organization, and for this I use control tools such as git and github, using fundamentals of project management to be able to produce efficiently.\nMy core values as a researcher are reproducibility, transparency, and accessibility, which are fundamental principles for developing research in an open and inclusive manner. In addition, I also highly value building a safe and healthy research environment, free of harassment and discrimination, where problem-solving takes place through dialogue in a respectful way."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
-    "title": "Hugo Tameirão Seixas",
+    "title": "",
     "section": "",
     "text": "2022\n\nExploring the ecosystem resilience concept with land surface model scenarios. Ecological Modelling. https://doi.org/10.1016/j.ecolmodel.2021.109817\n\n\n\n2021\n\nRelationship between Biomass Burning Emissions and Deforestation in Amazonia over the Last Two Decades. Forests. https://doi.org/10.3390/f12091217\n2020 Pantanal’s widespread fire: short- and long-term implications for biodiversity and conservation. Biodiversity and Conservation. https://doi.org/10.1007/s10531-021-02243-2\n\n\n\n2020\n\nRapid Recent Deforestation Incursion in a Vulnerable Indigenous Land in the Brazilian Amazon and Fire-Driven Emissions of Fine Particulate Aerosol Pollutants. Forests. https://doi.org/10.3390/f11080829"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Hugo Tameirão Seixas",
-    "section": "",
-    "text": "Estimating the potential carbon sequestration of integrated crop-livestock-forestry systems in brazil\n\nThis research focuses on estimating the carbon sequestration caused by the expansion of integrated crop-livestock-forestry farming systems in Brazil. Future projections will be performed based on data retrieved from the literature to predict the amount of above and below ground carbon accumulated in these systems along the years.\n\n\n\n\n\nEstimating the effect of forest fires over forest carbon estimates in the Brazillian Amazon\n\nIn this experiment I’m trying to set up a research design to estimate the effect of forest fires over aboveground biomass in the amazon. The biomass estimates are derived from GEDI L4A product. The research design is built upon Mapbiomas land cover and fire data.\n\n\n\n\n\nCreating accessible vizualisations of greenhouse gases in Brazil\n\nThis project consists in creating accessible vizualisations of emission data from the Climate Observatory. This is an exercise to improve the accessibility of academic documents in general, following guidelines and tools to facilitate information availability for all.\n\n\n\n\n\nCalculation transition time from native forests to annual agricultura in the Brazzilian Amazon\n\nThis project consists in calculating the time to the conversion from native forests to annual agriculture for the Mapbiomas land cover classification."
-  },
-  {
-    "objectID": "projects.html#section",
-    "href": "projects.html#section",
-    "title": "Projects",
-    "section": "||",
-    "text": "||"
-  },
-  {
-    "objectID": "projects.html#section-1",
-    "href": "projects.html#section-1",
-    "title": "Projects",
-    "section": "—————————————",
-    "text": "—————————————"
-  },
-  {
-    "objectID": "hugo-cv/hugo-cv.html",
-    "href": "hugo-cv/hugo-cv.html",
-    "title": "Hugo Tameirão Seixas",
-    "section": "",
-    "text": "I poisoned myself doing research.\nI was the first woman to win a Nobel prize\nI was the first person and only woman to win a Nobel prize in two different sciences."
-  },
-  {
-    "objectID": "hugo-cv/hugo-cv.html#education",
-    "href": "hugo-cv/hugo-cv.html#education",
-    "title": "Hugo Tameirão Seixas",
-    "section": "Education",
-    "text": "Education\n\n\n# A tibble: 3 × 5\n  what                  when    with                where          why      \n  <chr>                 <chr>   <chr>               <chr>          <list>   \n1 Informal studies      1889-91 Flying University   Warsaw, Poland <chr [0]>\n2 Master of Physics     1893    Sorbonne Université Paris, France  <chr [0]>\n3 Master of Mathematics 1894    Sorbonne Université Paris, France  <chr [0]>"
-  },
-  {
-    "objectID": "hugo-cv/hugo-cv.html#nobel-prizes",
-    "href": "hugo-cv/hugo-cv.html#nobel-prizes",
-    "title": "Hugo Tameirão Seixas",
-    "section": "Nobel Prizes",
-    "text": "Nobel Prizes\n\n\n# A tibble: 2 × 3\n  what                      when with                                           \n  <glue>                   <dbl> <chr>                                          \n1 Nobel Prize in Physics    1903 Awarded for her work on radioactivity with Pie…\n2 Nobel Prize in Chemistry  1911 Awarded for the discovery of radium and poloni…"
-  },
-  {
-    "objectID": "hugo-cv/hugo-cv.html#publications",
-    "href": "hugo-cv/hugo-cv.html#publications",
-    "title": "Hugo Tameirão Seixas",
-    "section": "Publications",
-    "text": "Publications\n\n\n\n/tmp/RtmpQu3VPe/file1bd9e11cbc478.yaml"
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "Hugo Tameirão Seixas",
-    "section": "",
-    "text": "Statistics\n\nStatistical Rethinking (2019)\nThis book is written by Richard McElreath, it talks about a different way of looking at statistics and inferences. His website is also a great source for talks and posts.\n\n\nThe effect (2022)\nThe effect is a gentle introduction to causal inference, written by Nick Huntington-Klein. The first part is an introduction to all the intuition that supports causal inference. The second part is an explanation of different statistical models for causal inference. The language used is accessible and there is not too much math, so the reading is easier than other books.\n\n\nStatistical Inference as Severe Testing (2018)\n\n\nModern Statistics with R (2021)\nThis is a book that covers many aspects of applying statistics in R. There are some chapters with basic material (if you are experienced with R, you are safe to skip them). After chapter 7, there is a wide range of topics on statistics, one of my favorites are the chapters talking about ethics issues with statistical inferences. This is a very applied book, with a lot of code examples in R.\n\n\nStatistical Inference via Data Science (2022)\nAnother hands-on book, with a lot a code in R to apply sampling techniques for statistical inferences. What I really like about this book is that it uses a very didactic approach, and it also applies modern packages (infer, from tidymodels) to perform the statistical inferences.\n\n\n\nProgramming\n\nR for Data Science\n\n\nHappy Git and GitHub for the useR\n\n\nAdvanced R\n\n\nMastering Spark with R\n\n\n\nData Communication\n\nFundamentals of Data Visualization\n\n\nggplot2: Elegant Graphics for Data Analysis (2016)\n\n\nChartability\nThe author of chartability is Frank Elavsky, there is also a document explaining the creation and usage of chartability: How accessible is my visualization? Evaluating visualization accessibility with Chartability (2022).\n\n\nHands-On Data Visualization (2022)\n\n\nTelling Stories with Data (2023)\n\n\nReport Writing for Data Science in R (2019)\n\n\n\nModelling\n\nThe Art of Data Science\n\n\nModern Data Science with R\n\n\nTidy Modelling with R\n\n\nHands-On Machine Learning with R\n\n\nExplanatory Model Analysis\n\n\nFeature Engineering and Selection: A Practical Approach for Predictive Models\n\n\nInterpretable Machine Learning\n\n\n\nSpatial analysis\n\nGeocomputation with R\n\n\nSatellite Image Time Series Analysis on Earth Observation Data Cubes\n\n\nSpatial Data Science (2022)\n\n\n\nProjact Management\n\nProject Management Fundamentals for Data Analysts"
-  },
-  {
     "objectID": "resources.html",
     "href": "resources.html",
-    "title": "Hugo Tameirão Seixas",
+    "title": "",
     "section": "",
     "text": "This is a list of resources that I am always looking for information, I consider them as essential material for my professional work as a researcher and a data analyst. If you can’t have access to any of these, please, reach me by email so that I can try to help you.\n\nStatistics\n\nStatistical Rethinking (2019)\nThis book is written by Richard McElreath, it talks about a different way of looking at statistics and inferences. His website is also a great source for talks and posts.\n\n\nThe effect (2022)\nThe effect is a gentle introduction to causal inference, written by Nick Huntington-Klein. The first part is an introduction to all the intuition that supports causal inference. The second part is an explanation of different statistical models for causal inference. The language used is accessible and there is not too much math, so the reading is easier than other books.\n\n\nStatistical Inference as Severe Testing (2018)\n\n\nModern Statistics with R (2021)\nThis is a book that covers many aspects of applying statistics in R. There are some chapters with basic material (if you are experienced with R, you are safe to skip them). After chapter 7, there is a wide range of topics on statistics, one of my favorites are the chapters talking about ethics issues with statistical inferences. This is a very applied book, with a lot of code examples in R.\n\n\nStatistical Inference via Data Science (2022)\nAnother hands-on book, with a lot a code in R to apply sampling techniques for statistical inferences. What I really like about this book is that it uses a very didactic approach, and it also applies modern packages (infer, from tidymodels) to perform the statistical inferences.\n\n\n\nProgramming\n\nR for Data Science\nThis is the book that finally made me start thriving in programming and data analyses. It was written by Hadley Wickham (a big reference in the R community). The book is an introduction to the use of a collection of packages, called the tidyverse\n\n\nHappy Git and GitHub for the useR\nThis is an essential book to learn version control with R! It is written by another reference to the R community, Jennifer Bryan. It teaches you how to start integrating your R projects with git and github, such an important resource if you want to produce high quality projects.\n\n\nAdvanced R\n\n\nMastering Spark with R\n\n\n\nData Communication\n\nFundamentals of Data Visualization\n\n\nggplot2: Elegant Graphics for Data Analysis (2016)\n\n\nChartability\nThe author of chartability is Frank Elavsky, which is a reference for me concerning accessibility. He developed the chartability which is a framework to evaluate and develop more accessible data visualizations. There is also a document explaining the creation and usage of chartability: How accessible is my visualization? Evaluating visualization accessibility with Chartability (2022).\n\n\nHands-On Data Visualization (2022)\n\n\nTelling Stories with Data (2023)\n\n\nReport Writing for Data Science in R (2019)\n\n\n\nModelling\n\nThe Art of Data Science\n\n\nModern Data Science with R\n\n\nTidy Modelling with R\n\n\nHands-On Machine Learning with R\n\n\nExplanatory Model Analysis\n\n\nFeature Engineering and Selection: A Practical Approach for Predictive Models\n\n\nInterpretable Machine Learning\n\n\nMLU-Explain\n\n\n\nSpatial analysis\n\nGeocomputation with R\n\n\nSatellite Image Time Series Analysis on Earth Observation Data Cubes\n\n\nSpatial Data Science (2022)\nThis is a book written by Edzer Pebesma. He is a reference for me, concerning spatial data manipulation. I have learned so much from him, he has made a great work developing R packages for spatial analytics, and really helped the development of this area in the R community. This is an amazing book with essential information for anyone interested on spatial data analysis, and even tough it is focused on the R language, it can provide precious information to users of any type!\n\n\n\nProject Management\n\nProject Management Fundamentals for Data Analysts"
   },
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "",
+    "section": "",
+    "text": "Modelagem com dados de cobertura da terra e biodiversidade na Amazônia\n\nEsse é um exercício de modelagem, em que utilizei dados publicados com o artigo científico: Linking land-use and land-cover transitions to their ecological impact in the Amazon. Com esse conjunto de dados, eu desenvolvi modelos de predição para estimar variáveis de biodiversidade, e modelos de classificação para estimar classes de cobertura da terra.\n\n\n\n\nEstimativas do potencial de sequestro de carbono por sistemas de integração lavoura-pecuária-floresta no Brasil\n\nEsta pesquisa tem como objetivo estimar o sequestro de carbono causado pela expansão dos sistemas de integração lavoura-pecuária-floresta no Brasil. As projeções futuras serão realizadas com base em dados recuperados da literatura para prever a quantidade de carbono, acima e abaixo do solo, acumulado nestes sistemas ao longo dos anos.\n\n\n\n\n\nEstimando o efeito de incêndios florestais sobre as estimativas de carbono florestal na Amazônia Brasileira\n\nNeste experimento, estou tentando estabelecer um projeto de pesquisa para estimar o efeito dos incêndios florestais sobre a biomassa acima do solo na Amazônia. As estimativas de biomassa são derivadas do produto GEDI L4A. O desenho experimental é baseado em dados de cobertura da terra e fogo do Mapbiomas.\n\n\n\n\n\nCriação de vizualizações acessíveis para emissões de gases de efeito estufa no Brasil\n\nEste projeto consiste em criar vizualizações de dados acessíveis, utilizando dados de emissões do [Observatório do Clima] (https://www.oc.eco.br/en/). Este é um exercício para melhorar a acessibilidade de documentos acadêmicos em geral, seguindo diretrizes e ferramentas para facilitar a disponibilidade de informações para todos.\n\n\n\n\n\nCálculo do tempo de conversão de florestas nativas para agricultura na Amazônia Brasileira\n\nEste projeto consiste em calcular o tempo de conversão de florestas nativas para agricultura, utilizando dados de classificação da cobertura da terra do Mapbiomas."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hugo Tameirão Seixas",
+    "section": "",
+    "text": "Email\n  \n  \n    \n     GitHub\n  \n\n  \n  \nSou estudante de doutorado em Ambiente e Sociedade pela Universidade Estadual de Campinas (UNICAMP). Tenho uma grande entusiasmo por pesquisa, análise e visualização de dados.\n\nFormação\nDoutorando em Ambiente e Sociedade\nMar 2021 - presente\nUniversidade Estadual de Campinas (UNICAMP)\nMestre em Sensoriamento Remoto\nMar 2018 - Mar 2020\nInstituto Nacional de Pesquisas Espaciais (INPE)\nEngenheiro Agrônomo\nMar 2011 - June 2017\nUniversidade de São Paulo (USP-ESALQ)\n\n\nExperiência\nEmbrapa Territorial | Técnico de Pesquisa\nMar 2020 - Mar 2021"
+  },
+  {
     "objectID": "cv.html",
     "href": "cv.html",
-    "title": "Hugo Tameirão Seixas",
+    "title": "",
     "section": "",
     "text": "Education\n\n\nPhD in Environment and Society\nState University of Campinas (UNICAMP)\nMSc in Remote Sensing\nNational Institute for Space Research (INPE)\nBSc in Agronomic Engineering\nUniversity of São Paulo (ESALQ)\n\nMar 2021 - present\n\nMar 2018 - Mar 2020\n\nMar 2011 - June 2017\n\n\n\n\n\n\nExperience\n\n\nEmbrapa Territorial | Research Technician \n\nMar 2020 - Mar 2021\n\n\n\n\n\nSkills\n\n\n\nAdvanced\n\n\nIntermediate\n\n\nBasic\n\n\n\n\n\nR\n\n\nSQL, Earth Engine\n\n\nPython, Julia"
   }

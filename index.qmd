@@ -14,7 +14,7 @@ about:
       href: https://github.com/hugotseixas
 ---
 
-::: {.content-visible when-profile="english"}
+::: {.content-visible when-profile="en"}
 
 ::: {#hero-heading}
 I am a PhD student in Environment and Society by the State University of Campinas (UNICAMP). I have a great enthusiasm for research, data analysis and visualization, which allows me to explore a vast ocean of knowledge.
@@ -46,7 +46,7 @@ I also love my cats!
 
 :::
 
-::: {.content-visible when-profile="portuguese"}
+::: {.content-visible when-profile="pt"}
 
 ::: {#hero-heading}
 Sou estudante de doutorado em Ambiente e Sociedade pela Universidade Estadual de Campinas (UNICAMP). Tenho uma grande entusiasmo por pesquisa, análise e visualização de dados.
