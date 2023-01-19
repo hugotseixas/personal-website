@@ -5,6 +5,9 @@ project:
 website:
   search: false
   navbar:
+    title: false
+    pinned: true
+    collapse: true
     background: dark
     left:
       - href: index.qmd
@@ -17,8 +20,6 @@ website:
         text: Referências
       - file: services.qmd
         text: Serviços
-      - file: cv.qmd
-        text: CV
     right:
       - href: ../en
         text: EN
@@ -32,5 +33,4 @@ format:
     theme: 
       - lux
       - styles.scss
-    toc: true
     mainfont: Maven Pro
