@@ -36,13 +36,17 @@ This is the book that finally made me start thriving in programming and data ana
 
 This is an essential book to learn version control with R! It is written by another reference to the R community, Jennifer Bryan. It teaches you how to start integrating your R projects with git and github, such an important resource if you want to produce high quality projects.
 
-#### Advanced R
+#### [Advanced R](https://adv-r.hadley.nz/)
 
-#### Mastering Spark with R
+Another book by Hadley Wickham, but differently from [R for Data Science](https://r4ds.had.co.nz/), it teaches specific skills with R that helps specially with the package development. My favorite section is the Functional Programming.
+
+#### [Mastering Spark with R](https://therinspark.com/)
+
+Spark helped me a lot when I needed to analyse a data set that could not fit in my computer memory. Even though I just used I tiny part of the whole capability of Spark, it was a great solution for my problem. I expect working more with Spark, and start using connections and applying machine learning algorithms with Spark. 
 
 # Data Communication
 
-#### [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
+#### [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) (2020)
 
 ####  [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/) (2016)
 
@@ -58,27 +62,27 @@ The author of chartability is [Frank Elavsky](https://www.frank.computer), which
 
 # Modelling
 
-#### The Art of Data Science
+#### The Art of Data Science (2018)
 
-#### Modern Data Science with R
+#### [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/) (2021)
 
-#### Tidy Modelling with R
+#### [Tidy Modelling with R](https://www.tmwr.org/) (2022)
 
-#### Hands-On Machine Learning with R
+#### [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/) (2020)
 
-#### Explanatory Model Analysis
+#### [Explanatory Model Analysis](https://ema.drwhy.ai/) (2020)
 
-#### Feature Engineering and Selection: A Practical Approach for Predictive Models
+#### [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/) (2019)
 
-#### Interpretable Machine Learning
+#### [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) (2022)
 
 #### [MLU-Explain](https://mlu-explain.github.io/)
 
 # Spatial analysis
 
-#### Geocomputation with R
+#### [Geocomputation with R](https://geocompr.robinlovelace.net/) (2023)
 
-#### Satellite Image Time Series Analysis on Earth Observation Data Cubes
+#### [Satellite Image Time Series Analysis on Earth Observation Data Cubes](https://e-sensing.github.io/sitsbook/) (2022)
 
 #### [Spatial Data Science](https://r-spatial.org/book/) (2022)
 
@@ -86,4 +90,4 @@ This is a book written by Edzer Pebesma. He is a reference for me, concerning sp
 
 # Project Management
 
-#### Project Management Fundamentals for Data Analysts
+#### Project Management Fundamentals for Data Analysts (2021)
