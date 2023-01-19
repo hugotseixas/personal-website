@@ -17,27 +17,25 @@ about:
 ::: {.content-visible when-profile="en"}
 
 ::: {#hero-heading}
-I am a PhD student in Environment and Society by the State University of Campinas (UNICAMP). I have a great enthusiasm for research, data analysis and visualization, which allows me to explore a vast ocean of knowledge.
-I also love my cats!
 
-### Education
+#### *Telling stories with data*
 
-| **PhD in Environment and Society**
-| *Mar 2021 - present*
-| *State University of Campinas (UNICAMP)*
+I'm a Agronomic Engineer, Master in Remote Sensing and PhD student in Environment and Society. Specialized in data analysis and data visualization. I also work as a freelancer, providing products on:
 
-| **MSc in Remote Sensing**
-| *Mar 2018 - Mar 2020*
-| *National Institute for Space Research (INPE)*
+- Data manipulation;
 
-| **BSc in Agronomic Engineering**
-| *Mar 2011 - June 2017*
-| *University of São Paulo (ESALQ)*
+- Statistical inference;
 
-### Experience
+- Exploratory data analysis;
 
-| **Embrapa Territorial** \| *Research Technician*
-| *Mar 2020 - Mar 2021*
+- Prediction and classification models (machine learning);
+
+- Data visualization;
+
+- Streamlining reports;
+
+Need help? Email me so we can set a discovery call. If you want more details about my services, check my [portfolio](/services.html).
+
 :::
 
 ------------------------------------------------------------------------
@@ -47,26 +45,25 @@ I also love my cats!
 ::: {.content-visible when-profile="pt"}
 
 ::: {#hero-heading}
-Sou estudante de doutorado em Ambiente e Sociedade pela Universidade Estadual de Campinas (UNICAMP). Tenho uma grande entusiasmo por pesquisa, análise e visualização de dados.
 
-### Formação
+#### *Contando histórias com dados*
 
-| **Doutorando em Ambiente e Sociedade**
-| *Mar 2021 - presente*
-| *Universidade Estadual de Campinas (UNICAMP)*
+Sou Engenheiro Agrônomo, Mestre em Sensoriamento Remoto e estudante de Doutorado em Ambiente e Sociedade. Especializado em análise e visualização de dados. Também trabalho como freelancer, fornecendo serviços:
 
-| **Mestre em Sensoriamento Remoto**
-| *Mar 2018 - Mar 2020*
-| *Instituto Nacional de Pesquisas Espaciais (INPE)*
+- Manipulação de dados;
 
-| **Engenheiro Agrônomo**
-| *Mar 2011 - June 2017*
-| *Universidade de São Paulo (USP-ESALQ)*
+- Inferência estatística;
 
-### Experiência
+- Análise exploratória de dados;
 
-| **Embrapa Territorial** \| *Técnico de Pesquisa*
-| *Mar 2020 - Mar 2021*
+- Modelos de previsão e classificação (machine learning);
+
+- Visualização de dados;
+
+- Relatórios automatizados;
+
+Precisa de ajuda? Envie-me um e-mail para que possamos definir uma chamada de descoberta. Se você quiser mais detalhes sobre meus serviços, verifique meu [portfolio](/services.html).
+
 :::
 
 ------------------------------------------------------------------------
