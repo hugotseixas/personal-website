@@ -22,19 +22,19 @@ states_plot <- states %>%
       
       print(.x$name_state[1])
       
-      roads <- st_bbox(.x) %>%
-        opq(timeout = 500) %>%
-        add_osm_feature(
-          key = "highway",
-          value = c("motorway", "trunk")
-        ) %>%
-        osmdata_sf()
+      # roads <- st_bbox(.x) %>%
+      #   opq(timeout = 500) %>%
+      #   add_osm_feature(
+      #     key = "highway",
+      #     value = c("motorway", "trunk")
+      #   ) %>%
+      #   osmdata_sf()
 
-      roads <- roads$osm_lines %>%
-        select(geometry) %>%
-        st_transform(crs = st_crs(.x)) %>%
-        st_intersection(.x$geom) %>%
-        st_simplify()
+      # roads <- roads$osm_lines %>%
+      #   select(geometry) %>%
+      #   st_transform(crs = st_crs(.x)) %>%
+      #   st_intersection(.x$geom) %>%
+      #   st_simplify()
       
       p <- .x %>%
         ggplot() +
@@ -42,12 +42,12 @@ states_plot <- states %>%
           geom_sf(fill = "#6f6161"),
           x_offset = 1, y_offset = 1
         ) +
-        geom_sf(
-          data = roads,
-          color = "#000000",
-          linewidth = 0.1,
-          alpha = 0.4
-        ) +
+        # geom_sf(
+        #   data = roads,
+        #   color = "#000000",
+        #   linewidth = 0.1,
+        #   alpha = 0.4
+        # ) +
         coord_sf(
           xlim = c(x_centroid + 9, x_centroid - 9),
           ylim = c(y_centroid + 8, y_centroid - 8)
@@ -103,7 +103,7 @@ p <- add_sub(
 )
 
 ggsave(
-  "dataviz/figures/brazil_states.png", 
+  "dataviz/figures/brazil_states.svg", 
   p, 
   dpi = 300,
   width = 15,
