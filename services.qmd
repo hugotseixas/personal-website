@@ -3,4 +3,5 @@ title: "Hire me"
 filters: [remove_title.lua]
 ---
 
-![brazil_states](dataviz/figures/brazil_states.svg)
+![](/dataviz/figures/brazil_states.svg)
+
