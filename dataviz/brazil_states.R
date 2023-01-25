@@ -90,11 +90,7 @@ states_plot <- states %>%
 
 p <- add_sub(
   plot = states_plot,
-  label = glue(
-    "Source: Highways - Open Street Maps",
-    "\n",
-    "Autor: Hugo Tameirão Seixas"
-  ),
+  label = glue("Autor: Hugo Tameirão Seixas"),
   x = 0.98,
   hjust = 1,
   size = 9,
