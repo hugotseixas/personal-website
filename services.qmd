@@ -38,6 +38,8 @@ Projetos pré estabelecidos (preço fixo):
 
 ::::
 
-![](/dataviz/figures/brazil_states.svg){height=60%}
+---
+
+![](/dataviz/figures/brazil_states.svg){height=30%}
 
 :::
