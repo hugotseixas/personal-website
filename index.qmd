@@ -46,7 +46,7 @@ Need help? Email me so we can set a discovery call. If you want more details abo
 
 ::: {#hero-heading}
 
-#### *Contando histórias com dados*
+#### *Histórias com dados*
 
 Sou Engenheiro Agrônomo, Mestre em Sensoriamento Remoto e estudante de Doutorado em Ambiente e Sociedade. Especializado em análise e visualização de dados. Também trabalho como freelancer, fornecendo serviços:
 
