@@ -1,9 +1,12 @@
 ---
-title: "Hire me"
+title: "Services"
 filters: [remove_title.lua]
+
 ---
 
 ::: {.content-visible when-profile="pt"}
+
+# Serviços
 
 Sou um profissional com mais de 5 anos de experiência com pesquisa e análise de dados. Minhas habilidades incluem:
 
@@ -18,16 +21,17 @@ Se você necessita de ajuda com seu trabalho, entre em contato comigo através d
 
 ::: {layout-ncol=2}
 
-### Projetos contínuos
+##### Projetos contínuos
 
-- Preço por hora[^hour]...(R$30,00 / hora)
+- Preço por hora[^hour]...(R$50,00 / hora)
 
 [^hour]: POR HORA:
 
-### Projetos fechados
-- Uma figura[^one_figure].......(R$60,00)
-- Dez figuras[^ten_figures].......(R$500,00)
-- Relatório[^report]...........(R$600,00)
+##### Projetos fechados
+- Uma figura[^one_figure].......(R$100,00)
+- Cinco Figuras[^five_figures]...(R$400,00)
+- Dez figuras[^ten_figures].......(R$800,00)
+- Relatório[^report]...........(R$1000,00)
 
 [^one_figure]: UMA FIGURA:
 
@@ -37,6 +41,8 @@ Se você necessita de ajuda com seu trabalho, entre em contato comigo através d
     
     Inclui uma revisão da figura
 
+[^five_figures]: CINCO FIGURAS:
+
 [^ten_figures]: DEZ FIGURAS:
 
 [^report]: RELATÓRIO:
@@ -44,6 +50,14 @@ Se você necessita de ajuda com seu trabalho, entre em contato comigo através d
 :::
 
 ---
+
+### Relatórios
+
+- [Modelling Land Use and Biodiversity in the Amazon](/documents/lulc_eco.html)
+
+---
+
+### Visualizações
 
 ::: {layout="[[1,1], [1]]"}
 
@@ -65,5 +79,87 @@ Se você necessita de ajuda com seu trabalho, entre em contato comigo através d
 
 
 :::
+
+---
+
+:::
+
+::: {.content-visible when-profile="en"}
+
+# Services
+
+Sou um profissional com mais de 5 anos de experiência com pesquisa e análise de dados. Minhas habilidades incluem:
+
+- Manipulação de dados: limpar e organizar os dados para um estado pronto para análise (incluindo dados espaciais);
+- Visualização de dados: figuras de alta qualidade para comunicar resultados (incluindo figuras interativas);
+- Análise exploratória: examinar características dos dados para melhorar a compreensão des fenômenos envolvidos com os dados;
+- Inferências estatísticas: fazer inferências estatísticas de diversas naturezas, utilizando técnicas modernas de computação;
+- Modelagem: desenvolvimento de modelos de predição e classificação;
+- Comunicação: Escrever documentos técnicos e científicos em diversos formatos (incluindo relatórios reprodutíveis);
+
+Se você necessita de ajuda com seu trabalho, entre em contato comigo através do meu email.
+
+::: {layout-ncol=2}
+
+##### Projetos contínuos
+
+- Preço por hora[^hour]...(R$50,00 / hora)
+
+[^hour]: POR HORA:
+
+##### Projetos fechados
+- Uma figura[^one_figure].......(R$100,00)
+- Cinco Figuras[^five_figures]...(R$400,00)
+- Dez figuras[^ten_figures].......(R$800,00)
+- Relatório[^report]...........(R$1000,00)
+
+[^one_figure]: UMA FIGURA:
+
+    Inclui consultoria sobre como pode ser a melhor maneira de comunicar seus resultados.
+    
+    Prazo de uma semana.
+    
+    Inclui uma revisão da figura
+
+[^five_figures]: CINCO FIGURAS:
+
+[^ten_figures]: DEZ FIGURAS:
+
+[^report]: RELATÓRIO:
+
+:::
+
+---
+
+### Relatórios
+
+- [Modelling Land Use and Biodiversity in the Amazon](/documents/lulc_eco.html)
+
+---
+
+### Visualizações
+
+::: {layout="[[1,1], [1]]"}
+
+![](/dataviz/figures/brazil_states.svg){.preview-image}
+
+::: {layout="[[1], [1], [1]]"}
+
+![](/dataviz/figures/map.svg)
+\vspace{}
+
+
+
+\vspace{}
+
+
+
+:::
+
+
+
+:::
+
+---
 
 :::
