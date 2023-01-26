@@ -16,30 +16,54 @@ Sou um profissional com mais de 5 anos de experiência com pesquisa e análise d
 
 Se você necessita de ajuda com seu trabalho, entre em contato comigo através do meu email.
 
-:::: {.columns}
+::: {layout-ncol=2}
 
-::: {.column width="50%"}
+### Projetos contínuos
 
-Projetos contínuos (preço por hora):
+- Preço por hora[^hour]...(R$30,00 / hora)
+
+[^hour]: POR HORA:
+
+### Projetos fechados
+- Uma figura[^one_figure].......(R$60,00)
+- Dez figuras[^ten_figures].......(R$500,00)
+- Relatório[^report]...........(R$600,00)
+
+[^one_figure]: UMA FIGURA:
+
+    Inclui consultoria sobre como pode ser a melhor maneira de comunicar seus resultados.
+    
+    Prazo de uma semana.
+    
+    Inclui uma revisão da figura
+
+[^ten_figures]: DEZ FIGURAS:
+
+[^report]: RELATÓRIO:
 
 :::
-
-::: {.column width="50%"}
-
-Projetos pré estabelecidos (preço fixo):
-
-- Uma figura:
-
-- Dez figuras: 
-
-- Relatório:
-
-:::
-
-::::
 
 ---
 
-![](/dataviz/figures/brazil_states.svg){height=30%}
+::: {layout="[[1,1], [1]]"}
+
+![](/dataviz/figures/brazil_states.svg){.preview-image}
+
+::: {layout="[[1], [1], [1]]"}
+
+![](/dataviz/figures/map.svg)
+\vspace{}
+
+
+
+\vspace{}
+
+
+
+:::
+
+
+
+:::
 
 :::
