@@ -23,29 +23,13 @@ Se você necessita de ajuda com seu trabalho, entre em contato comigo.
 
 ##### Projetos contínuos
 
-- Preço por hora[^hour]...(R$50,00 / hora)
-
-[^hour]: POR HORA:
+- Preço por hora...(R$50,00 / hora)
 
 ##### Projetos fechados
-- Uma figura[^one_figure].......(R$100,00)
-- Cinco Figuras[^five_figures]...(R$450,00)
-- Dez figuras[^ten_figures].......(R$800,00)
-- Relatório[^report]...........(R$1000,00)
-
-[^one_figure]: UMA FIGURA:
-
-    Inclui consultoria sobre como pode ser a melhor maneira de comunicar seus resultados.
-    
-    Prazo de uma semana.
-    
-    Inclui uma revisão da figura
-
-[^five_figures]: CINCO FIGURAS:
-
-[^ten_figures]: DEZ FIGURAS:
-
-[^report]: RELATÓRIO:
+- Uma figura.......(R$100,00)
+- Cinco Figuras...(R$450,00)
+- Dez figuras.......(R$800,00)
+- Relatório...........(R$1000,00)
 
 :::
 
