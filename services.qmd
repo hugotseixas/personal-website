@@ -17,7 +17,7 @@ Sou um profissional com mais de 5 anos de experiência com pesquisa e análise d
 - Modelagem: desenvolvimento de modelos de predição e classificação;
 - Comunicação: Escrever documentos técnicos e científicos em diversos formatos (incluindo relatórios reprodutíveis);
 
-Se você necessita de ajuda com seu trabalho, entre em contato comigo através do meu email.
+Se você necessita de ajuda com seu trabalho, entre em contato comigo.
 
 ::: {layout-ncol=2}
 
@@ -29,7 +29,7 @@ Se você necessita de ajuda com seu trabalho, entre em contato comigo através d
 
 ##### Projetos fechados
 - Uma figura[^one_figure].......(R$100,00)
-- Cinco Figuras[^five_figures]...(R$400,00)
+- Cinco Figuras[^five_figures]...(R$450,00)
 - Dez figuras[^ten_figures].......(R$800,00)
 - Relatório[^report]...........(R$1000,00)
 
@@ -53,7 +53,7 @@ Se você necessita de ajuda com seu trabalho, entre em contato comigo através d
 
 ### Relatórios
 
-- [Modelling Land Use and Biodiversity in the Amazon](/documents/lulc_eco.html)
+- [Modelos de classificação e predição com dados de biodiversidade e uso da terra](/documents/lulc_eco.html)
 
 ---
 
@@ -88,56 +88,40 @@ Se você necessita de ajuda com seu trabalho, entre em contato comigo através d
 
 # Services
 
-Sou um profissional com mais de 5 anos de experiência com pesquisa e análise de dados. Minhas habilidades incluem:
+I am a professional with over 5 years of experience with research and data analysis. My skills include:
 
-- Manipulação de dados: limpar e organizar os dados para um estado pronto para análise (incluindo dados espaciais);
-- Visualização de dados: figuras de alta qualidade para comunicar resultados (incluindo figuras interativas);
-- Análise exploratória: examinar características dos dados para melhorar a compreensão des fenômenos envolvidos com os dados;
-- Inferências estatísticas: fazer inferências estatísticas de diversas naturezas, utilizando técnicas modernas de computação;
-- Modelagem: desenvolvimento de modelos de predição e classificação;
-- Comunicação: Escrever documentos técnicos e científicos em diversos formatos (incluindo relatórios reprodutíveis);
+- Data manipulation: cleaning and organizing data to an analysis-ready state (including spatial data);
+- Data visualization: high quality figures to communicate results (including interactive figures);
+- Exploratory analysis: examine characteristics of data to improve understanding of phenomena involved with the data;
+- Statistical inference: making statistical inferences of various kinds, using modern computing techniques
+- Modeling: developing models for prediction and classification;
+- Communication: writing technical and scientific documents in various formats (including reproducible reports);
 
-Se você necessita de ajuda com seu trabalho, entre em contato comigo através do meu email.
+If you need help with your work, please contact me.
 
 ::: {layout-ncol=2}
 
-##### Projetos contínuos
+##### Continuous projects
 
-- Preço por hora[^hour]...(R$50,00 / hora)
+- Hourly price[^hour]...($20,00 / hour)
 
-[^hour]: POR HORA:
-
-##### Projetos fechados
-- Uma figura[^one_figure].......(R$100,00)
-- Cinco Figuras[^five_figures]...(R$400,00)
-- Dez figuras[^ten_figures].......(R$800,00)
-- Relatório[^report]...........(R$1000,00)
-
-[^one_figure]: UMA FIGURA:
-
-    Inclui consultoria sobre como pode ser a melhor maneira de comunicar seus resultados.
-    
-    Prazo de uma semana.
-    
-    Inclui uma revisão da figura
-
-[^five_figures]: CINCO FIGURAS:
-
-[^ten_figures]: DEZ FIGURAS:
-
-[^report]: RELATÓRIO:
+##### Fixed projects
+- One figure.......($50,00)
+- Five Figures.....($225,00)
+- Ten figures.......($400,00)
+- Report...........($500,00)
 
 :::
 
 ---
 
-### Relatórios
+### Reports
 
 - [Modelling Land Use and Biodiversity in the Amazon](/documents/lulc_eco.html)
 
 ---
 
-### Visualizações
+### Visualizations
 
 ::: {layout="[[1,1], [1]]"}
 
