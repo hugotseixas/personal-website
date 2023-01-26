@@ -6,7 +6,7 @@ filters: [remove_title.lua]
 
 ::: {.content-visible when-profile="en"}
 
-### [Modelling Land Use and Land Cover and biodiversity in the Amazon](/documents/lulc_eco.html)
+### [Modelling Land Use and Land Cover and Biodiversity in the Amazon](/documents/lulc_eco.html)
 >
 > This is a modelling exercise, in which I used data from the scientific paper: [Linking land-use and land-cover transitions to their ecological impact in the Amazon](https://www.pnas.org/doi/full/10.1073/pnas.2202310119). With this data, I developed prediction models to predict a biodiversity variable, and classification models to classify Land Use and Land Cover (LULC) classes.
 >
