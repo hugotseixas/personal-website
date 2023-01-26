@@ -17,7 +17,7 @@ Sou um profissional com mais de 5 anos de experiência com pesquisa e análise d
 - Modelagem: desenvolvimento de modelos de predição e classificação;
 - Comunicação: Escrever documentos técnicos e científicos em diversos formatos (incluindo relatórios reprodutíveis);
 
-Se você necessita de ajuda com seu trabalho, entre em contato comigo.
+Se você necessita de ajuda com seu trabalho, entre em contato comigo: [{{< fa envelope >}}](mailto:seixas.hugo@protonmail.com)
 
 ::: {layout-ncol=2}
 
@@ -81,7 +81,7 @@ I am a professional with over 5 years of experience with research and data analy
 - Modeling: developing models for prediction and classification;
 - Communication: writing technical and scientific documents in various formats (including reproducible reports);
 
-If you need help with your work, please contact me.
+If you need help with your work, please contact me: [{{< fa envelope >}}](mailto:seixas.hugo@protonmail.com)
 
 ::: {layout-ncol=2}
 
