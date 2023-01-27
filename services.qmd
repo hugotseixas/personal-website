@@ -109,14 +109,14 @@ If you need help with your work, please contact me: [{{< fa envelope >}}](mailto
 
 ::: {layout="[[1,1], [1]]"}
 
-![](/dataviz/figures/brazil_states.svg){.preview-image}
+![](/dataviz/figures/brazil_states.svg)
 
 ::: {layout="[[1], [1], [1]]"}
 
-![](/dataviz/figures/map.svg)
+![](/dataviz/figures/bird_count.svg)
 \vspace{}
 
-
+![](/dataviz/figures/temp_accuracy.svg)
 
 \vspace{}
 
