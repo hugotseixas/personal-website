@@ -45,14 +45,14 @@ Se você necessita de ajuda com seu trabalho, entre em contato comigo: [{{< fa e
 
 ::: {layout="[[1,1], [1]]"}
 
-![](/dataviz/figures/brazil_states.svg){.preview-image}
+![](/dataviz/figures/brazil_states.svg)
 
 ::: {layout="[[1], [1], [1]]"}
 
-![](/dataviz/figures/map.svg)
+![](/dataviz/figures/bird_count.svg)
 \vspace{}
 
-
+![](/dataviz/figures/temp_accuracy.svg)
 
 \vspace{}
 
