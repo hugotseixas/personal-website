@@ -90,7 +90,7 @@ states_plot <- states %>%
 
 p <- add_sub(
   plot = states_plot,
-  label = glue("Autor: Hugo Tameirão Seixas"),
+  label = glue("Hugo Tameirão Seixas | Data: IBGE"),
   x = 0.98,
   hjust = 1,
   size = 9,
