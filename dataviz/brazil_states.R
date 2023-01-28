@@ -58,7 +58,7 @@ states_plot <- states %>%
           plot.caption = 
             element_text(
               hjust = 0.5,
-              size = rel(0.8),
+              size = rel(1.3),
               family = "Yrsa",
               face = "bold",
               color = "#372222",
@@ -76,7 +76,7 @@ states_plot <- states %>%
   plot_grid(
     plotlist = ., 
     labels = "Unidades Federativas do Brasil",
-    label_size = 24,
+    label_size = 33.5,
     label_colour = "#372222",
     label_fontfamily = "Yrsa",
     hjust = 0,
@@ -93,7 +93,7 @@ p <- add_sub(
   label = glue("Hugo Tameirão Seixas | Data: IBGE"),
   x = 0.98,
   hjust = 1,
-  size = 9,
+  size = 11,
   fontfamily = "Yrsa",
   color = "#372222"
 )
