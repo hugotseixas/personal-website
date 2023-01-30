@@ -3,6 +3,8 @@ title: "Resources"
 filters: [remove_title.lua]
 ---
 
+::: {.content-visible when-profile="en"}
+
 This is a list of resources that I am always looking for information, I consider them as essential material for my professional work as a researcher and a data analyst. If you can't have access to any of these, please, reach me by email so that I can try to help you.
 
 # Statistics
@@ -86,8 +88,105 @@ The author of chartability is [Frank Elavsky](https://www.frank.computer), which
 
 #### [Spatial Data Science](https://r-spatial.org/book/) (2022)
 
-This is a book written by Edzer Pebesma. He is a reference for me, concerning spatial data manipulation. I have learned so much from him, he has made a great work developing R packages for spatial analytics, and really helped the development of this area in the R community. This is an amazing book with essential information for anyone interested on spatial data analysis, and even tough it is focused on the R language, it can provide precious information to users of any type!
+This is a book written by Edzer Pebesma. He is a reference for me, concerning spatial data manipulation. I have learned so much from him, he has made a great work developing R packages for spatial analytics, and really helped the development of this area in the R community. This is an amazing book with essential information for anyone interested on spatial data analysis, and even though it is focused on the R language, it can provide precious information to users of any type!
 
 # Project Management
 
 #### Project Management Fundamentals for Data Analysts (2021)
+
+:::
+
+::: {.content-visible when-profile="pt"}
+
+Esta é uma lista de recursos da qual estou sempre buscando informações, considero como materiais essenciais para meu trabalho profissional como pesquisador e analista de dados. Se você não puder ter acesso a nenhum deles, por favor, entre em contato comigo por e-mail para que eu possa tentar ajudá-lo.
+
+# Estatística
+
+#### Statistical Rethinking (2019)
+
+Este livro é escrito por Richard McElreath, fala sobre uma maneira diferente de interpretar a estatística e suas inferências.
+Seu [site](https://xcelab.net/rm/) também é uma ótima fonte para palestras e posts.
+
+#### [The effect](https://theeffectbook.net/index.html) (2022)
+
+O efeito é uma suave introdução à inferência causal, escrita por Nick Huntington-Klein. A primeira parte é uma introdução a toda a intuição que da base à inferência causal. A segunda parte é uma explicação de diferentes modelos estatísticos para a inferência causal. A linguagem utilizada é acessível e não há muita matemática, portanto, a leitura é mais fácil do que outros livros. 
+
+#### Statistical Inference as Severe Testing (2018)
+
+#### [Modern Statistics with R](https://www.modernstatisticswithr.com/) (2021)
+
+Este é um livro que cobre muitos aspectos da aplicação de estatísticas em R. Há alguns capítulos com material básico (se você tem experiência com R, você  pode ignorá-los). Após o capítulo 7, há uma grande variedade de tópicos sobre estatística, um dos meus favoritos são os capítulos que falam sobre questões éticas com inferências estatísticas. Este é um livro muito aplicado, com muitos exemplos de código em R.
+
+#### [Statistical Inference via Data Science](https://moderndive.com/) (2022)
+
+Outro livro prático, com muito código em R para aplicar técnicas de amostragem para inferências estatísticas. O que eu realmente gosto neste livro é que ele usa uma abordagem muito didática, e também aplica pacotes modernos (infer, de [tidymodels](https://www.tidymodels.org/)) para realizar as inferências estatísticas.
+
+# Programação
+
+#### [R for Data Science](https://r4ds.had.co.nz/)
+
+Este é o livro que me fez começar a prosperar em programação e análise de dados. Ele foi escrito por Hadley Wickham (uma grande referência na comunidade R). O livro é uma introdução ao uso de uma coleção de pacotes, chamada [tidyverse](https://www.tidyverse.org/).
+
+#### [Happy Git and GitHub for the useR](https://happygitwithr.com/)
+
+Este é um livro essencial para aprender controle de versão com R! É escrito por outra referência na comunidade R, Jennifer Bryan. Ela ensina como começar a integrar seus projetos de R com git e github, um recurso tão importante se você quiser produzir projetos de alta qualidade.
+
+#### [Advanced R](https://adv-r.hadley.nz/)
+
+Outro livro de Hadley Wickham, mas diferente do [R for Data Science](https://r4ds.had.co.nz/), ensina habilidades específicas com R que ajuda especialmente no desenvolvimento de pacotes. Minha seção favorita é a Programação Funcional.
+
+#### [Mastering Spark with R](https://therinspark.com/)
+
+O Spark me ajudou muito quando eu precisava analisar um conjunto de dados grande, que não cabia na memória do meu computador. Embora eu tenha usado apenas uma pequena parte de toda a capacidade da Spark, foi uma grande solução para o meu problema. Espero trabalhar mais com essa ferramenta, e começar a usar conexões e aplicar algoritmos de aprendizagem da máquina com a Spark. 
+
+# Visualização e comunicação de dados
+
+#### [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) (2020)
+
+####  [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/) (2016)
+
+#### [Chartability](https://chartability.fizz.studio/)
+
+O autor de Chartability é [Frank Elavsky](https://www.frank.computer), que é para mim uma referência na questão de acessibilidade na visualização de dados. Ele desenvolveu a Chartability que é uma metodologia para avaliar e desenvolver visualizações de dados mais acessíveis. Há também um documento que explica a criação e o uso da Chartability: [How accessible is my visualization? Evaluating visualization accessibility with Chartability](https://www.frank.computer/chartability/#) (2022).
+
+#### [Hands-On Data Visualization](https://handsondataviz.org/) (2022)
+
+#### [Telling Stories with Data](https://tellingstorieswithdata.com/) (2023)
+
+#### Report Writing for Data Science in R (2019)
+
+# Modelagem
+
+#### The Art of Data Science (2018)
+
+#### [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/) (2021)
+
+#### [Tidy Modelling with R](https://www.tmwr.org/) (2022)
+
+#### [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/) (2020)
+
+#### [Explanatory Model Analysis](https://ema.drwhy.ai/) (2020)
+
+#### [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/) (2019)
+
+#### [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) (2022)
+
+#### [MLU-Explain](https://mlu-explain.github.io/)
+
+# Análise espacial
+
+#### [Geocomputation with R](https://geocompr.robinlovelace.net/) (2023)
+
+#### [Satellite Image Time Series Analysis on Earth Observation Data Cubes](https://e-sensing.github.io/sitsbook/) (2022)
+
+#### [Spatial Data Science](https://r-spatial.org/book/) (2022)
+
+Este é um livro escrito por Edzer Pebesma. Ele é uma referência para mim, no que diz respeito à manipulação de dados espaciais. Aprendi tanto com ele pelo seu trabalho desenvolvendo pacotes de R para análise espacial. Este é um livro excelente, com informações essenciais para qualquer pessoa interessada na análise de dados espaciais, e mesmo que  seja focado na linguagem R, ele pode fornecer informações preciosas para usuários de qualquer tipo!
+
+Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator
+
+# Gestão de projetos
+
+#### Project Management Fundamentals for Data Analysts (2021)
+
+:::
