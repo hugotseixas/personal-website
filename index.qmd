@@ -20,7 +20,9 @@ about:
 
 #### *Telling stories with data*
 
-I'm a Agronomic Engineer, Master in Remote Sensing and PhD student in Environment and Society. Specialized in data analysis and data visualization. I also work as a freelancer, providing products on:
+I'm a Agronomic Engineer, Master in Remote Sensing and PhD student in Environment and Society. Specialized in data analysis and data visualization. Want to know more about me? Check my resume: [{{< fa user regular >}}](/cv/cv_pt.pdf)
+
+I also work as a freelancer, providing products on:
 
 |   {{< fa computer >}} - Data manipulation;
 |
@@ -34,7 +36,7 @@ I'm a Agronomic Engineer, Master in Remote Sensing and PhD student in Environmen
 |
 |   {{< fa book >}} - Streamlining reports;
 
-Need help? Email me so we can set a discovery call. If you want more details about my services, check my [portfolio](/services.html).
+Need help? Email me so we can set a discovery call. If you want more details about my services, check my portfolio: [{{< fa book-open >}}](/services.html)
 
 :::
 
@@ -48,7 +50,9 @@ Need help? Email me so we can set a discovery call. If you want more details abo
 
 #### *Histórias com dados*
 
-Sou Engenheiro Agrônomo, Mestre em Sensoriamento Remoto e estudante de Doutorado em Ambiente e Sociedade. Especializado em análise e visualização de dados. Também trabalho como freelancer, fornecendo serviços:
+Sou Engenheiro Agrônomo, Mestre em Sensoriamento Remoto e estudante de Doutorado em Ambiente e Sociedade. Especializado em análise e visualização de dados. Quer saber mais sobre mim? Acesse meu currículo: [{{< fa user regular >}}](/cv/cv_pt.pdf)
+
+Também trabalho como freelancer, fornecendo serviços:
 
 |   {{< fa computer >}} - Manipulação de dados;
 |
@@ -62,7 +66,7 @@ Sou Engenheiro Agrônomo, Mestre em Sensoriamento Remoto e estudante de Doutorad
 |
 |   {{< fa book >}} - Relatórios automatizados;
 
-Precisa de ajuda? Envie-me um e-mail para que possamos definir uma chamada de descoberta. Se você quiser mais detalhes sobre meus serviços, verifique meu [portfolio](/services.html).
+Precisa de ajuda? Envie-me um e-mail para que possamos definir uma chamada de descoberta. Se você quiser mais detalhes sobre meus serviços, verifique meu portfolio: : [{{< fa book-open >}}](/services.html)
 
 :::
 
