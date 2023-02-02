@@ -65,6 +65,8 @@ Se você necessita de ajuda com seu trabalho, entre em contato comigo: [{{< fa e
 
 ![](/dataviz/figures/crop_yield.svg){width=100%}
 
+![](/dataviz/figures/gapminder.gif){width=100%}
+
 ---
 
 :::
@@ -129,6 +131,8 @@ If you need help with your work, please contact me: [{{< fa envelope >}}](mailto
 :::
 
 ![](/dataviz/figures/crop_yield.svg){width=100%}
+
+![](/dataviz/figures/gapminder.gif){width=100%}
 
 ---
 
