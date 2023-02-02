@@ -128,7 +128,7 @@ p <-
   ) +
   # Here comes the gganimate specific bits
   labs(
-    title = "Global evolution of life expectancy and GPD per capta",
+    title = "Global evolution of life expectancy and GDP per capta",
     subtitle = "Year: {frame_time}", 
     caption = "Hugo Tameirão Seixas | Data: Gapminder",
     x = 'GDP per capita (PPP dollars)', 
