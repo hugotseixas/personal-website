@@ -64,6 +64,14 @@ The author of chartability is [Frank Elavsky](https://www.frank.computer), which
 
 # Modelling
 
+#### Modelling Mindsets (2022)
+
+This is an amazing overview of different modeling approaches. Written by Christoph Molnar, in a very fluid and pedagogical manner. I strongly recommend reading this book if you are into modeling, and already have familiarity with statistics.
+
+#### [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) (2022)
+
+This is another exceptional book, also written by Christoph Molnar. This book aims to present ways to interpret models. Some chapters deal with models that are naturally easier to interpret. Other chapters deal with methodologies that can be applied to any model, even those that are more difficult to interpret. A must read for anyone working with modeling.
+
 #### The Art of Data Science (2018)
 
 #### [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/) (2021)
@@ -156,6 +164,14 @@ O autor de Chartability é [Frank Elavsky](https://www.frank.computer), que é p
 #### Report Writing for Data Science in R (2019)
 
 # Modelagem
+
+#### Modelling Mindsets (2022)
+
+Este é um excelente panorama de diferentes abordagens de modelagem. Escrito por Christoph Molnar, de uma maneira muito fluida e pedagógica. Recomendo muito a leitura deste livro se você gosta de modelagem, e já tem familiaridade com estatística.
+
+#### [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) (2022)
+
+Esse é outro livro excepcional, também escrito por Christoph Molnar. Esse livro tem como objetivo apresentar formas de interpretar modelos. Alguns capítulos abordam modelos que são naturalmente mais fáceis de interpretar. Outros capitulos tratam de metodologias que podem ser aplicadas em qualquer modelo, até naqueles que são mais difíceis de serem interpretados. Uma leitura que recomendo para qualquer pessoa que trabalhe com modelagem.
 
 #### The Art of Data Science (2018)
 
