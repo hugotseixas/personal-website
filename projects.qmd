@@ -9,6 +9,8 @@ filters: [remove_title.lua]
 ### [Dimensions of the impacts of land transitions in the Amazon and Cerrado](/documents/lct_se_ac.html)
 >
 > This project aims to predict and understand the causes and impacts of native vegetation suppression in the Cerrado and Amazon biomes, considering environmental and anthropic dimensions. The results will provide a deeper understanding of the relationships between land use changes, environmental factors, and social dynamics related to native vegetation suppression.
+>
+> ![](/images/cerrado.jpg)
 
 <br>
 
