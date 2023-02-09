@@ -6,6 +6,12 @@ filters: [remove_title.lua]
 
 ::: {.content-visible when-profile="en"}
 
+### [Dimensions of the impacts of land transitions in the Amazon and Cerrado](/documents/lct_se_ac.html)
+>
+> This project aims to predict and understand the causes and impacts of native vegetation suppression in the Cerrado and Amazon biomes, considering environmental and anthropic dimensions. The results will provide a deeper understanding of the relationships between land use changes, environmental factors, and social dynamics related to native vegetation suppression.
+
+<br>
+
 ### [Modelling Land Use and Land Cover and Biodiversity in the Amazon](/documents/lulc_eco.html)
 >
 > This is a modelling exercise, in which I used data from the scientific paper: [Linking land-use and land-cover transitions to their ecological impact in the Amazon](https://www.pnas.org/doi/full/10.1073/pnas.2202310119). With this data, I developed prediction models to predict a biodiversity variable, and classification models to classify Land Use and Land Cover (LULC) classes.
@@ -41,6 +47,14 @@ filters: [remove_title.lua]
 :::
 
 ::: {.content-visible when-profile="pt"}
+
+### [Dimensões dos impactos das transições de terras na Amazônia e no Cerrado](/documents/lct_se_ac.html)
+>
+> Este projeto visa prever e compreender as causas e impactos da supressão da vegetação nativa nos biomas do Cerrado e da Amazônia, considerando as dimensões ambientais e antrópicas. Os resultados proporcionarão uma compreensão mais profunda das relações entre as mudanças no uso da terra, fatores ambientais e dinâmicas sociais relacionadas à supressão da vegetação nativa.
+>
+> ![](/images/cerrado.jpg)
+
+<br>
 
 ### [Modelagem com dados de cobertura da terra e biodiversidade na Amazônia](/documents/lulc_eco.html)
 >
