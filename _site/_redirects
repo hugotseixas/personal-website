@@ -1,3 +1,4 @@
 # Redirects from what the browser requests to what we serve
 /               /en
 /en/pt          /pt
+/tica/*         https://hugotseixas-tica.netlify.app/:splat 200!
