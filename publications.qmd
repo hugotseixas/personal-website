@@ -5,7 +5,7 @@ filters: [remove_title.lua]
 
 # 2023
 
-- The drivers and impacts of Amazon forest degradation. <https://www.science.org/doi/10.1126/science.abp8622>
+- The drivers and impacts of Amazon forest degradation. Science. <https://www.science.org/doi/10.1126/science.abp8622>
 
 # 2022
 
