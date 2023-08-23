@@ -19,20 +19,6 @@ Sou um profissional com mais de 5 anos de experiência com pesquisa e análise d
 
 Se você necessita de ajuda com seu trabalho, entre em contato comigo: [{{< fa envelope >}}](mailto:seixas.hugo@protonmail.com)
 
-::: {layout-ncol=2}
-
-##### Projetos contínuos
-
-- Preço por hora...(R$50,00 / hora)
-
-##### Projetos fechados
-- Uma figura.......(R$100,00)
-- Cinco Figuras...(R$450,00)
-- Dez figuras.......(R$800,00)
-- Relatório...........(R$1000,00)
-
-:::
-
 ---
 
 ### Relatórios
@@ -55,8 +41,6 @@ Se você necessita de ajuda com seu trabalho, entre em contato comigo: [{{< fa e
 ![](/dataviz/figures/temp_accuracy.svg)
 
 \vspace{}
-
-
 
 :::
 
@@ -86,20 +70,6 @@ I am a professional with over 5 years of experience with research and data analy
 
 If you need help with your work, please contact me: [{{< fa envelope >}}](mailto:seixas.hugo@protonmail.com)
 
-::: {layout-ncol=2}
-
-##### Continuous projects
-
-- Hourly price...($20,00 / hour)
-
-##### Fixed projects
-- One figure.......($50,00)
-- Five Figures.....($225,00)
-- Ten figures.......($400,00)
-- Report...........($500,00)
-
-:::
-
 ---
 
 ### Reports
@@ -122,8 +92,6 @@ If you need help with your work, please contact me: [{{< fa envelope >}}](mailto
 ![](/dataviz/figures/temp_accuracy.svg)
 
 \vspace{}
-
-
 
 :::
 
