@@ -197,9 +197,7 @@ Esse é outro livro excepcional, também escrito por Christoph Molnar. Esse livr
 
 #### [Spatial Data Science](https://r-spatial.org/book/) (2022)
 
-Este é um livro escrito por Edzer Pebesma. Ele é uma referência para mim, no que diz respeito à manipulação de dados espaciais. Aprendi tanto com ele pelo seu trabalho desenvolvendo pacotes de R para análise espacial. Este é um livro excelente, com informações essenciais para qualquer pessoa interessada na análise de dados espaciais, e mesmo que  seja focado na linguagem R, ele pode fornecer informações preciosas para usuários de qualquer tipo!
-
-Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator
+Este é um livro escrito por Edzer Pebesma. Ele é uma referência para mim, no que diz respeito à manipulação de dados espaciais. Este é um livro excelente, com informações essenciais para qualquer pessoa interessada na análise de dados espaciais, e mesmo que  seja focado na linguagem R, ele pode fornecer informações preciosas para usuários de qualquer tipo!
 
 # Gestão de projetos
 
