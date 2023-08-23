@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "2023",
-    "section": "",
-    "text": "2023\n\nThe drivers and impacts of Amazon forest degradation. Science. https://www.science.org/doi/10.1126/science.abp8622\n\n\n\n2022\n\nExploring the ecosystem resilience concept with land surface model scenarios. Ecological Modelling. https://doi.org/10.1016/j.ecolmodel.2021.109817\n\n\n\n2021\n\nRelationship between Biomass Burning Emissions and Deforestation in Amazonia over the Last Two Decades. Forests. https://doi.org/10.3390/f12091217\n2020 Pantanal’s widespread fire: short- and long-term implications for biodiversity and conservation. Biodiversity and Conservation. https://doi.org/10.1007/s10531-021-02243-2\n\n\n\n2020\n\nRapid Recent Deforestation Incursion in a Vulnerable Indigenous Land in the Brazilian Amazon and Fire-Driven Emissions of Fine Particulate Aerosol Pollutants. Forests. https://doi.org/10.3390/f11080829"
-  },
-  {
     "objectID": "resources.html",
     "href": "resources.html",
     "title": "Statistics",
@@ -19,6 +12,13 @@
     "title": "Hugo Tameirão Seixas",
     "section": "",
     "text": "Dimensions of the impacts of land transitions in the Amazon and Cerrado\n\nThis project aims to predict and understand the causes and impacts of native vegetation suppression in the Cerrado and Amazon biomes, considering environmental and anthropic dimensions. The results will provide a deeper understanding of the relationships between land use changes, environmental factors, and social dynamics related to native vegetation suppression.\n\n\n\n\n\nModelling Land Use and Land Cover and Biodiversity in the Amazon\n\nThis is a modelling exercise, in which I used data from the scientific paper: Linking land-use and land-cover transitions to their ecological impact in the Amazon. With this data, I developed prediction models to predict a biodiversity variable, and classification models to classify Land Use and Land Cover (LULC) classes.\n\n\n\n\n\nEstimating the effect of forest fires over forest carbon estimates in the Brazillian Amazon\n\nIn this experiment I’m trying to set up a research design to estimate the effect of forest fires over aboveground biomass in the amazon. The biomass estimates are derived from GEDI L4A product. The research design is built upon Mapbiomas land cover and fire data.\n\n\n\n\n\nCreating accessible vizualisations of greenhouse gases in Brazil\n\nThis project consists in creating accessible vizualisations of emission data from the Climate Observatory. This is an exercise to improve the accessibility of academic documents in general, following guidelines and tools to facilitate information availability for all.\n\n\n\n\n\nCalculation transition time from native forests to agriculture in the Brazzilian Amazon\n\nThis project consists in calculating the time to the conversion from native forests to annual agriculture for the Mapbiomas land cover classification."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "2023",
+    "section": "",
+    "text": "2023\n\nThe drivers and impacts of Amazon forest degradation. Science. https://www.science.org/doi/10.1126/science.abp8622\n\n\n\n2022\n\nExploring the ecosystem resilience concept with land surface model scenarios. Ecological Modelling. https://doi.org/10.1016/j.ecolmodel.2021.109817\n\n\n\n2021\n\nRelationship between Biomass Burning Emissions and Deforestation in Amazonia over the Last Two Decades. Forests. https://doi.org/10.3390/f12091217\n2020 Pantanal’s widespread fire: short- and long-term implications for biodiversity and conservation. Biodiversity and Conservation. https://doi.org/10.1007/s10531-021-02243-2\n\n\n\n2020\n\nRapid Recent Deforestation Incursion in a Vulnerable Indigenous Land in the Brazilian Amazon and Fire-Driven Emissions of Fine Particulate Aerosol Pollutants. Forests. https://doi.org/10.3390/f11080829"
   },
   {
     "objectID": "services.html",
