@@ -6,7 +6,7 @@ filters: [remove_title.lua]
 
 ::: {.content-visible when-profile="en"}
 
-### [Dimensions of the impacts of land transitions in the Amazon and Cerrado](/tica/)
+### [Dimensions of the impacts of land transitions in the Amazon and Cerrado](https://hugotseixas-tica.netlify.app/)
 >
 > This project aims to predict and understand the causes and impacts of native vegetation suppression in the Cerrado and Amazon biomes, considering environmental and anthropic dimensions. The results will provide a deeper understanding of the relationships between land use changes, environmental factors, and social dynamics related to native vegetation suppression.
 >
@@ -50,7 +50,7 @@ filters: [remove_title.lua]
 
 ::: {.content-visible when-profile="pt"}
 
-### [Dimensões dos impactos das transições de terras na Amazônia e no Cerrado](/tica/)
+### [Dimensões dos impactos das transições de terras na Amazônia e no Cerrado](https://hugotseixas-tica.netlify.app/)
 >
 > Este projeto visa prever e compreender as causas e impactos da supressão da vegetação nativa nos biomas do Cerrado e da Amazônia, considerando as dimensões ambientais e antrópicas. Os resultados proporcionarão uma compreensão mais profunda das relações entre as mudanças no uso da terra, fatores ambientais e dinâmicas sociais relacionadas à supressão da vegetação nativa.
 >
